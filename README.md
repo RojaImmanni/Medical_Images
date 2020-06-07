@@ -19,11 +19,11 @@ We start with two base architectures and we down-scale the models by depth, widt
 
 
 ## Datasets:
-* MURA: It consists of 14,863 studies from 12,173 patients, with a total of 40,561 multi-view radiographic images. Each belongs to one of seven standard upper extremity radiographic study types: elbow, finger, forearm, hand, humerus, shoulder, and wrist. Each study is labeled as either 1 or 0 which represents normal and abnormal respectively.
+* **MURA**: It consists of 14,863 studies from 12,173 patients, with a total of 40,561 multi-view radiographic images. Each belongs to one of seven standard upper extremity radiographic study types: elbow, finger, forearm, hand, humerus, shoulder, and wrist. Each study is labeled as either 1 or 0 which represents normal and abnormal respectively.
   
-* RSNA Brain Hemorrhage: It consists of 674K Brain CT scan images. The images can be labelled with 6 kinds of classes, 5 being different Hemorrhage types and 1 being normal. To make this problem similar to that of typical medical image dataset, total number of images are reduced to 30k for training and 30k for testing. Each study is labelled as 1 or 0 which represents the presence of a Hemorrhage or normal respectively 
+* **RSNA Brain Hemorrhage**: It consists of 674K Brain CT scan images. The images can be labelled with 6 kinds of classes, 5 being different Hemorrhage types and 1 being normal. To make this problem similar to that of typical medical image dataset, total number of images are reduced to 30k for training and 30k for testing. Each study is labelled as 1 or 0 which represents the presence of a Hemorrhage or normal respectively 
   
-* Chexpert:It consists of 224,316 chest radio-graphs from 65,240 patients labeled for 14 diseases as negative, positive or uncertain. From those classes, only 5 of them were analyzed: Atelectasis, Cardiomegaly, Consolidation, Edema and Pleural Effusion. The training set is down-sampled to 40k images with 5 labels to each observation. 
+* **Chexpert**:It consists of 224,316 chest radio-graphs from 65,240 patients labeled for 14 diseases as negative, positive or uncertain. From those classes, only 5 of them were analyzed: Atelectasis, Cardiomegaly, Consolidation, Edema and Pleural Effusion. The training set is down-sampled to 40k images with 5 labels to each observation. 
 
 
 
