@@ -25,5 +25,12 @@ We start with two base architectures and we down-scale the models by depth, widt
   
 * **Chexpert**:It consists of 224,316 chest radio-graphs from 65,240 patients labeled for 14 diseases as negative, positive or uncertain. From those classes, only 5 of them were analyzed: Atelectasis, Cardiomegaly, Consolidation, Edema and Pleural Effusion. The training set is down-sampled to 40k images with 5 labels to each observation. 
 
+To evaluate the models, we have used AUC ROC score for all the datasets.
+
+
+## Results:
+* **Using different convolutions**: Starting with a base resnet18 architecture, we replaced the original convolution with grouped convolution with different number of groups all the way down to depthwise separable convolution. Total number of parameters in the model have reduced from 11.1M to 770K. 
+
+Here are the results on the 3 datasets with different down-scaled models.
 
 
