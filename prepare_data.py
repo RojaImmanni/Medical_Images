@@ -73,9 +73,9 @@ def rsna_dataloaders(batch_size):
     valid_ds = rsna_dataset(test_set, transform=False)
 
     train_loader = DataLoader(train_ds, batch_size=batch_size,num_workers=4, shuffle=True)
-    train_loader = DataLoader(valid_ds, batch_size=batch_size,num_workers=4)
+    valid_loader = DataLoader(valid_ds, batch_size=batch_size,num_workers=4)
     
-    return train_loader, train_loader, valid_ds
+    return train_loader, valid_loader, valid_ds
 
 
 
