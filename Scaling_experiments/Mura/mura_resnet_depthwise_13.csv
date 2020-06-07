@@ -1,0 +1,25 @@
+index,width_x,depth_x,val_score,params,time_per_epoch
+0,1.0,0.0,0.8514332795302826,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_1.0_0,0 days 00:00:48.357337000
+1,1.0,1.0,0.8409332485982149,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_1.0_1,0 days 00:00:50.283974000
+2,1.0,2.0,0.8410654128868618,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_1.0_2,0 days 00:00:45.073873000
+3,1.0,3.0,0.8439758392432328,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_1.0_3,0 days 00:00:48.209794000
+4,1.0,4.0,0.8190952089039364,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_1.0_4,0 days 00:00:44.111508000
+5,1.0,5.0,0.8325872143704761,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_1.0_5,0 days 00:00:38.447821000
+6,0.75,0.0,0.8369598839203864,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.75_0,0 days 00:00:52.170427000
+7,0.75,1.0,0.8424264238593098,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.75_1,0 days 00:00:46.962522000
+8,0.75,2.0,0.8295868038175795,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.75_2,0 days 00:00:52.336333000
+9,0.75,3.0,0.8286869618523247,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.75_3,0 days 00:00:53.401535000
+10,0.75,4.0,0.827674639641413,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.75_4,0 days 00:00:45.099411000
+11,0.75,5.0,0.8238250032338071,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.75_5,0 days 00:00:41.438435000
+12,0.5,0.0,0.8350645917810684,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.5_0,0 days 00:00:49.082944000
+13,0.5,1.0,0.8346709109212693,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.5_1,0 days 00:00:44.976986000
+14,0.5,2.0,0.8334561242681755,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.5_2,0 days 00:00:41.925285000
+15,0.5,3.0,0.8296064878605696,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.5_3,0 days 00:00:45.162936000
+16,0.5,4.0,0.8216428864680639,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.5_4,0 days 00:00:41.663175000
+17,0.5,5.0,0.8200203589244639,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.5_5,0 days 00:00:41.409453000
+18,0.25,0.0,0.8129847195586275,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.25_0,0 days 00:00:47.834893000
+19,0.25,1.0,0.8072116709502895,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.25_1,0 days 00:00:43.697049000
+20,0.25,2.0,0.8012952100287387,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.25_2,0 days 00:00:41.357642000
+21,0.25,3.0,0.8193145453829671,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.25_3,0 days 00:00:46.879428000
+22,0.25,4.0,0.8080074686883116,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.25_4,0 days 00:00:42.978652000
+23,0.25,5.0,0.8122732820048479,/home/rimmanni/Medical_Images/Scaling_experiments/Mura/ResDep_0.25_5,0 days 00:00:42.747789000

@@ -1,0 +1,25 @@
+index,width_x,depth_x,val_score,params,time_per_epoch
+0,1.0,0.0,0.6935698976094173,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_1.0_0,0 days 00:01:31.524146000
+1,1.0,1.0,0.6900251050006886,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_1.0_1,0 days 00:01:27.315541000
+2,1.0,2.0,0.6882450229348593,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_1.0_2,0 days 00:01:24.255817000
+3,1.0,3.0,0.696342843880483,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_1.0_3,0 days 00:01:26.069689000
+4,1.0,4.0,0.6974541492889763,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_1.0_4,0 days 00:01:14.153903000
+5,1.0,5.0,0.689872635352929,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_1.0_5,0 days 00:01:12.383046000
+6,0.75,0.0,0.6873058869659328,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.75_0,0 days 00:01:18.596128000
+7,0.75,1.0,0.6744494983067536,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.75_1,0 days 00:01:15.946059000
+8,0.75,2.0,0.6753605719403248,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.75_2,0 days 00:01:13.654802000
+9,0.75,3.0,0.6851097689229434,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.75_3,0 days 00:01:14.663636000
+10,0.75,4.0,0.6837224329943281,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.75_4,0 days 00:01:08.623296000
+11,0.75,5.0,0.6721903537870093,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.75_5,0 days 00:01:04.927865000
+12,0.5,0.0,0.674115317523855,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.5_0,0 days 00:01:07.062598000
+13,0.5,1.0,0.6653519555013127,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.5_1,0 days 00:01:04.452855000
+14,0.5,2.0,0.6698600554687392,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.5_2,0 days 00:01:03.172546000
+15,0.5,3.0,0.6716404149207043,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.5_3,0 days 00:01:03.265808000
+16,0.5,4.0,0.676569545890695,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.5_4,0 days 00:01:03.006633000
+17,0.5,5.0,0.6618739687372102,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.5_5,0 days 00:01:08.835994000
+18,0.25,0.0,0.6524562483770079,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.25_0,0 days 00:01:17.406075000
+19,0.25,1.0,0.6551392357269435,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.25_1,0 days 00:01:14.398740000
+20,0.25,2.0,0.6509850207929793,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.25_2,0 days 00:01:02.499826000
+21,0.25,3.0,0.6533767236860009,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.25_3,0 days 00:01:04.846947000
+22,0.25,4.0,0.6520956394006611,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.25_4,0 days 00:01:04.827874000
+23,0.25,5.0,0.6462491274632385,/home/rimmanni/Medical_Images/Scaling_experiments/Chexpert/ResDepth_0.25_5,0 days 00:01:02.780724000
