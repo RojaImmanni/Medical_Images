@@ -33,4 +33,16 @@ To evaluate the models, we have used AUC ROC score for all the datasets.
 
 Here are the results on the 3 datasets with different down-scaled models.
 
+Figure 1 compares the results of three datasets with different models (different number of groups)
+
+![](images/group_performance.png)
+
+Figure 2 : MobileNet scaled-down models
+
+![](images/TransferLearning_MobileNet.jpg)
+
+Figure 3 : ResNet scaled-down models
+
+![](images/TransferLearning_ResNet.jpg)
+
 
