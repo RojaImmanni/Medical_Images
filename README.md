@@ -35,7 +35,7 @@ Here are the results on the 3 datasets with different down-scaled models.
 
 Figure 1 compares the results of three datasets with different models (different number of groups)
 
-![](images/group_performance.jpg | width=100)
+![](images/group_performance.jpg)
 
 Figure 2 : MobileNet scaled-down models
 
